@@ -20,5 +20,4 @@ Expected behavior:
 3. YES -> rematch.
 4. NO -> normal post-defeat line.
 
-REMATCH SETTINGS persistence and all v8.5 battle/progression/move behavior are
-unchanged.
+
