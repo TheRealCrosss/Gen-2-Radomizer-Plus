@@ -4,7 +4,7 @@ The Gold interaction path exposes defeated trainer NPCs with flattened
 `trainerClass` / `trainerParty` fields. v8.6.0 was primarily checking for the
 normalized `npc.def.trainer` table, so the talk wrapper could miss the trainer.
 
-v8.6.1 recognizes both shapes.
+v1.0.0 recognizes both shapes.
 
 It also:
 - uses Gold's authoritative `trainerDefeated()` check,
