@@ -1,0 +1,20 @@
+{
+  "id": "gen_2_randomizer_plus",
+  "name": "Gen 2 Randomizer+",
+  "version": "2.5.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GAMEPLAY",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "games": [
+    "gold"
+  ],
+  "permissions": [],
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "experimental": false,
+  "description": "A customizable Pokemon Gold randomizer with trainer/Gym rematches, progressive leveling, randomized wild Pokemon, stats, moves, types, starters, per-Pokemon learnsets, randomized world/hidden items, and randomized TMs."
+}
